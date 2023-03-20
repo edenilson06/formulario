@@ -1,0 +1,34 @@
+body{
+    background-color: #1e1e1e;
+}
+input{
+    padding: 15px;
+    border: 1px solid;
+    outline: none;
+    font-size: 25px;
+    border-radius: 7px;
+}
+.tela-login{
+    background-color: #F9F9FB;
+    position: absolute;
+    top: 33%;
+    left: 42%;
+    transform: translate(-50%, -50%);
+    padding: 41px;
+    border-radius: 4px;
+    color: rgb(0, 0, 0);
+    
+}
+.gh{
+   background-color: #7180B9; 
+   left: 30px;
+}
+.Login{
+    text-align: center;
+    background-color: #7180B9;
+}
+.h3{ 
+    left: 50px;
+    top: 40px;
+}
+    
